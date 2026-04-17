@@ -1,3 +1,3 @@
-# Funathon 2024: "Décollage imminent pour la data science"
+# AIML4OS 2026 Funathon
 
-Dépôt centralisant le contenu produit pour le Funathon 2024
+To be completed.
