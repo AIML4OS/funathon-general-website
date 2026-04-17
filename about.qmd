@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About the funathon"
 ---
 
 ![](img/best_image_funathon.png){height="400" fig-align="center"}
@@ -17,7 +17,6 @@ Compared to standard hackathons, the funathon has two spectific features:
 
 Registration is compulsory (see below). Onboarding sessions will take place on May 18th and May 22th so as to facilitate participation (see below).
 
-
 ## Schedule
 
 The 2026 funathon will take place over two days, on __May 27th and 28th__, from 9:30am to 5:30pm (UTC+1/CET). The funathon will consist in three steps:
@@ -25,8 +24,6 @@ The 2026 funathon will take place over two days, on __May 27th and 28th__, from 
 - it will start with a short welcoming session (roughly 30 minutes). In this session, organizers will explain and present the projects.
 - Then all teams will work on one of the projects for two days. 
 - Finally, a short wrap-up session will take place at the end of the second day (around 4:30pm). Participants will be asked for feedback and may present their results if they want to (but this it __NOT__ compulsory!).
-
-
 
 ## Registration
 
