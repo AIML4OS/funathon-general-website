@@ -13,15 +13,13 @@ listing:
 
 <!-- ![](img/best_image_funathon.png){height="400" fig-align="center"} -->
 
-The 2026 funathon will take place on __May 27th and 28th__.
+The 2026 funathon will take place on __May 27th and 28th__. If you want to register, see [here](/about.qmd).
 
-Pour en savoir plus sur les modalités d'inscription, consulter la page [A propos](/about.qmd).
-
-<br>
+<!-- <br>
 
 ::: {#sample-listings}
 :::
 
-<br>
+<br> -->
 
 All resources developed for the funathon are available on the [`Github AIML4OS`](https://github.com/orgs/AIML4OS/teams/wp6-funathon/repositories) webpage.
