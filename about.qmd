@@ -4,31 +4,40 @@ title: "About"
 
 ![](img/best_image_funathon.png){height="400" fig-align="center"}
 
-This website accompanies the non-competitive hackathon (funathon) organized by work package 6 within the AIML4OS project.
+This website accompanies the non-competitive hackathon (funathon) organized by Work Package 6 within the AIML4OS project.
 
 ## What is a Funathon?
 
-A funathon is a special sort of event, halfway between a training session and a hackathon. It aims at giving statisticians an opportunity to __learn and apply machine learning and IA methods in a collaborative and supportive environment__. Importantly, the funathon is a __non-competitive event__: the only goal is to learn and have fun.
+A funathon is a special sort of event, halfway between a training session and a hackathon. It aims at giving statisticians an opportunity to __learn and apply machine learning and IA methods in a collaborative and supportive environment__. Over two days, participants will work in teams on ML and AI projects provided by the organizers. These projects are well-suited for beginners, have minimal technical requirements and contain detailed solutions so that no one is stuck. Throughout the event, the organizing team will provide support to participants over Zoom whenever needed. All projects will be carried out on the (amazing) SSPCloud platform. After the end of the funathon, all projects will remain available on Github.
 
-Over two days, participants will work on ML and AI projects provided by the organizers. These projects are well-suited for beginners, have minimal technical requirements and contain detailed solutions so that no one is stuck. Throughout the event, the organizing team will be available to answer questions and support participants whenever needed.All projects will be carried out on the (amazing) SSPCloud platform. 
+Compared to standard hackathons, the funathon has two spectific features: 
 
-## 
+- it is a __non-competitive event__: the only goal is to learn and have fun.
+- it is an __inclusive event with very limited technical requirements__: everyone willing to work and learn is welcome. Of course, knowing a bit of Python and Git will make things easier, but this is not a prerequisite.
 
-## Déroulement de l'événement
+Registration is compulsory (see below). Onboarding sessions will take place on May 18th and May 22th so as to facilitate participation (see below).
 
-L'événement dure 2 jours, les __25 et 26 juin__. En autonomie par équipe, vous bénéficierez tout de même pendant la durée de cet événement de canaux de communication avec les organisateurs (Zoom et Tchap) ouverts pour éviter tout blocage ou pour poser des questions de compréhension. 
 
-En amont de l'événement, une présentation de l'événement, des sujets et de l'environnement de travail (le SSPCloud) aura lieu le __18 juin, 15h-17h__. 
+## Schedule
 
-A l'issue de l'événement, tout le contenu ici présent restera disponible. 
+The 2026 funathon will take place over two days, on __May 27th and 28th__, from 9:30am to 5:30pm (UTC+1/CET). The funathon will consist in three steps:
 
-## Participer
+- it will start with a short welcoming session (roughly 30 minutes). In this session, organizers will explain and present the projects.
+- Then all teams will work on one of the projects for two days. 
+- Finally, a short wrap-up session will take place at the end of the second day (around 4:30pm). Participants will be asked for feedback and may present their results if they want to (but this it __NOT__ compulsory!).
 
-L'ensemble des contenus de cet événement est disponible de manière libre, pendant l'événement mais aussi à l'issue de celui-ci.
 
-Il est possible de participer:
 
-* En s'inscrivant de manière formelle, par le biais de [SIFOR](https://formation.insee.fr/) pour les agents Insee ou
-par l'intermédiaire des référents formations pour les agents des services statistiques ministériels ;
-* En participant de manière informelle, sans inscription.
+## Registration
+
+Registration is compulsory.
+
+TO BE COMPLETED: two steps, registration by teams
+
+The organizers strongly recommend that you form a team with your colleagues and __reserve a room where you can all work together in-person__ for the duration of the funathon. This collaborative, in-person aspect is one of the most important features of the funathon (and it's much more fun to work directly with colleagues).
+
+## Onboarding sessions
+
+Onboarding sessions will take place on May 18th and May 22th so as to facilitate participation.
+
 

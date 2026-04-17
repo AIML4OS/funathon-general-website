@@ -13,7 +13,7 @@ listing:
 
 <!-- ![](img/best_image_funathon.png){height="400" fig-align="center"} -->
 
-The 2026 funathon will take place on __May 27th-28th__.
+The 2026 funathon will take place on __May 27th and 28th__.
 
 Pour en savoir plus sur les modalités d'inscription, consulter la page [A propos](/about.qmd).
 
