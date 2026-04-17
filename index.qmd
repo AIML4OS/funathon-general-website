@@ -1,5 +1,5 @@
 ---
-title: "AIML4OS 2026 funathon"
+title: "2026 AIML4OS funathon"
 subtitle: "Let's discover ML and AI!"
 listing:
     id: sample-listings
@@ -13,9 +13,8 @@ listing:
 
 <!-- ![](img/best_image_funathon.png){height="400" fig-align="center"} -->
 
-Cette page recense les ressources préparées par les organisateurs sur les __4 sujets proposés__ lors de l'événement 2024.
+The 2026 funathon will take place on __May 27th-28th__.
 
-L'événement aura lieu les __25 et 26 juin__.
 Pour en savoir plus sur les modalités d'inscription, consulter la page [A propos](/about.qmd).
 
 <br>
@@ -25,6 +24,4 @@ Pour en savoir plus sur les modalités d'inscription, consulter la page [A propo
 
 <br>
 
-L'ensemble des ressources de cet événement est disponible via le [`Github InseeFrLab`](https://github.com/InseeFrLab/funathon2024).
-
-Les ressources de l'édition 2023 sur le thème "Du champ à l'assiette" sont disponibles [sur ce site](https://inseefrlab.github.io/funathon2023/).
+All resources developed for the funathon are available on the [`Github AIML4OS`](https://github.com/orgs/AIML4OS/teams/wp6-funathon/repositories) webpage.

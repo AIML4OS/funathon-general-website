@@ -2,14 +2,14 @@ project:
   type: website
 
 website:
-  title: "Funathon 2024"
+  title: "2026 AIML4OS Funathon"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: https://inseefrlab.github.io/funathon2024_slides/
-        text: Slides de présentation
+      - href: https://aiml4os.github.io/funathon-general-website/
+        text: Introductory slides
       - replay.qmd
       - restitutions.qmd
 
