@@ -2,8 +2,8 @@
 title: "Un tableau de bord du trafic aérien avec R ou Python"
 image: ../img/kid_drawing.jfif
 number: 2
-categories:
-    - TODO
+# categories:
+#     - TODO
 github: https://github.com/InseeFrLab/funathon2024_sujet2/
 website: https://inseefrlab.github.io/funathon2024_sujet2/
 levels: ["Débutant", "Intermédiaire", "Expert"]
