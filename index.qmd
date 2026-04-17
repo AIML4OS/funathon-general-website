@@ -1,6 +1,6 @@
 ---
-title: "Funathon 2024"
-subtitle: "Décollage imminent pour la data science"
+title: "AIML4OS 2026 funathon"
+subtitle: "Let's discover ML and AI!"
 listing:
     id: sample-listings
     contents: subjects
