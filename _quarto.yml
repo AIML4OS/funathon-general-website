@@ -10,6 +10,7 @@ website:
       - about.qmd
       - href: https://aiml4os.github.io/funathon-general-website/
         text: Introductory slides
+      - subjects.qmd
       # - replay.qmd
       # - restitutions.qmd
 
