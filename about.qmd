@@ -8,7 +8,7 @@ This website accompanies the non-competitive hackathon (funathon) organized by W
 
 ## What is a Funathon?
 
-A funathon is a special sort of event, halfway between a training session and a hackathon. It aims at giving statisticians an opportunity to __learn and apply machine learning and IA methods in a collaborative and supportive environment__. Over two days, participants will work in teams on ML and AI projects provided by the organizers. These projects are well-suited for beginners, have minimal technical requirements and contain detailed solutions so that no one is stuck. Throughout the event, the organizing team will provide support to participants over Zoom whenever needed. All projects will be carried out on the (amazing) SSPCloud platform. After the end of the funathon, all projects will remain available on Github.
+A funathon is a special sort of event, halfway between a training session and a hackathon. It aims at giving statisticians an opportunity to __learn and apply machine learning and IA methods in a collaborative and supportive environment__. Over two days, participants will work in teams on end-to-end ML and AI projects provided by the organizers. Throughout the event, the organizing team will provide support to participants over Zoom whenever needed. All projects will be carried out on the (amazing) SSPCloud platform. 
 
 Compared to standard hackathons, the funathon has two spectific features: 
 
@@ -16,6 +16,11 @@ Compared to standard hackathons, the funathon has two spectific features:
 - it is an __inclusive event with very limited technical requirements__: everyone willing to work and learn is welcome. Of course, knowing a bit of Python and Git will make things easier, but this is not a prerequisite.
 
 Registration is compulsory (see below). Onboarding sessions will take place on May 18th and May 22th so as to facilitate participation (see below).
+
+
+## What do funathon projects consist in?
+
+Funathon projects are end-to-end AI and ML projects that demonstrate how to carry out a complex statistical task, such as codification or satellite imagery processing. A funathon project typically contains data, codes, complete technical configuration, detailed documentation, and exercices along with hints and answers. These projects are __well-suited for beginners__, have __minimal technical requirements__ and contain __detailed solutions__ so that no one is stuck. After the end of the funathon, all projects will remain available on Github.
 
 ## Schedule
 
@@ -27,14 +32,60 @@ The 2026 funathon will take place over two days, on __May 27th and 28th__, from 
 
 ## Registration
 
-Registration is compulsory.
+Registration is compulsory. You must register in teams of approximately 3 to 5 people. The organizers strongly recommend that you form a team with your colleagues and __book a room where you can all work together in-person__ for the duration of the funathon. This collaborative, in-person aspect is one of the most important features of the funathon (and it's much more fun to work directly with colleagues).
 
-TO BE COMPLETED: two steps, registration by teams
+The registration process takes place in two steps:
 
-The organizers strongly recommend that you form a team with your colleagues and __reserve a room where you can all work together in-person__ for the duration of the funathon. This collaborative, in-person aspect is one of the most important features of the funathon (and it's much more fun to work directly with colleagues).
+- First, you register following the registration link (see Registration);
+- Second, organizers will send you an email confirming your registration around May 10th.
 
 ## Onboarding sessions
 
-Onboarding sessions will take place on May 18th and May 22th so as to facilitate participation.
+Onboarding sessions will take place on Monday May 18th afternoon and Friday May 22th morning so as to facilitate participation. These onboarding sessions will explain what he funathon consists in, what will happen during the event and how you can prepare your participation (for instance how to create your Github and SSP Cloud accounts).
+
+## Frequently Asked Questions
+
+### Can teams consist of employees from different departments or even different countries? 
+
+Your team can include any person you want to work with. However, the organizers strongly recommend that you form a team with colleagues that work in the same place as you, and that you book a room where you can all work together in-person for the duration of the funathon, because it's more fun to work directly with colleagues.
+
+### Is it possible to participate solo as an individual contributor? 
+
+You can participate on your own if you really want to. However, the organizers strongly recommend that you participate in teams, because it's more fun and you can do more in two days.
+
+### Will I be required to present the results of my work after the funathon?
+
+No, you will not be required to present the results of your work at the end of the funathon. __The funathon is not a competition or an exam__, it is an opportunity to learn and discover new things.
+
+### Will technical support be available during the event?
+
+Yes, the organizers will provide online technical support over the two days.
+
+### What are the technical requirements?
+
+There are two sorts of requirements:
+
+- You must have an Github account and an SSPCloud account. In case you do not have them yet, creating these acounts takes less than 5 minutes.
+- Some prior knowledge of Git and Python is clearly preferable, but not absolutely necessary.
+
+### I am familiar with Python but have no experience with Git. Will this be a barrier to participation?
+
+Some prior knowledge of Git is useful, but not absolutely necessary, in particular if you participate with colleagues who already know Git.
+
+### Do I have to strictly follow the provided task instructions, or can I modify them freely? 
+
+You can do __whatever you want__ with the funathon projects. If you are a complete beginner in AI and ML, we recommend that you follow the instructions and try to answer the questions. If you are already proficient in AI and ML, you can modify the project in any way you want.
+
+### Can I work on my local machine, or am I required to use a dedicated platform?
+
+The funathon projects are expected to be run on SSP Cloud, and organizers will offer technical support on SSP Cloud. This being said, you are free to run the projects on your local machine, but organizers will not provide technical support if you run into problems.
+
+### Am I allowed to use my own data during the event?
+
+Yes, you are free to use your own data, as long as it is open data, because no confidential data is allowed on SSP Cloud. This being said, using your own data is likely to require some modifications in the projects, and organizers may not be able to provide technical support.
+
+
+
+
 
 
