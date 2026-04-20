@@ -70,6 +70,27 @@
     "text": "Frequently Asked Questions\n\nCan teams consist of employees from different departments or even different countries?\nYour team can include any person you want to work with. However, the organizers strongly recommend that you form a team with colleagues that work in the same place as you, and that you book a room where you can all work together in-person for the duration of the funathon, because it’s more fun to work directly with colleagues.\n\n\nIs it possible to participate solo as an individual contributor?\nYou can participate on your own if you really want to. However, the organizers strongly recommend that you participate in teams, because it’s more fun and you can do more in two days.\n\n\nWill I be required to present the results of my work after the funathon?\nNo, you will not be required to present the results of your work at the end of the funathon. The funathon is not a competition or an exam, it is an opportunity to learn and discover new things.\n\n\nWill technical support be available during the event?\nYes, the organizers will provide online technical support over the two days.\n\n\nWhat are the technical requirements?\nThere are two sorts of requirements:\n\nYou must have an Github account and an SSPCloud account. In case you do not have them yet, creating these acounts takes less than 5 minutes.\nSome prior knowledge of Git and Python is clearly preferable, but not absolutely necessary.\n\n\n\nI am familiar with Python but have no experience with Git. Will this be a barrier to participation?\nSome prior knowledge of Git is useful, but not absolutely necessary, in particular if you participate with colleagues who already know Git.\n\n\nDo I have to strictly follow the provided task instructions, or can I modify them freely?\nYou can do whatever you want with the funathon projects. If you are a complete beginner in AI and ML, we recommend that you follow the instructions and try to answer the questions. If you are already proficient in AI and ML, you can modify the project in any way you want.\n\n\nCan I work on my local machine, or am I required to use a dedicated platform?\nThe funathon projects are expected to be run on SSP Cloud, and organizers will offer technical support on SSP Cloud. This being said, you are free to run the projects on your local machine, but organizers will not provide technical support if you run into problems.\n\n\nAm I allowed to use my own data during the event?\nYes, you are free to use your own data, as long as it is open data, because no confidential data is allowed on SSP Cloud. This being said, using your own data is likely to require some modifications in the projects, and organizers may not be able to provide technical support."
   },
   {
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
+    "section": "",
+    "text": "Registration to the AIML4OS funathon is compulsory. The registration process takes place in two steps:\n\nFirst, participants register following the registration link;\nSecond, organizers will send an email to participants confirming your registration (around May 10th)."
+  },
+  {
+    "objectID": "registration.html#registration-process",
+    "href": "registration.html#registration-process",
+    "title": "Registration",
+    "section": "",
+    "text": "Registration to the AIML4OS funathon is compulsory. The registration process takes place in two steps:\n\nFirst, participants register following the registration link;\nSecond, organizers will send an email to participants confirming your registration (around May 10th)."
+  },
+  {
+    "objectID": "registration.html#how-to-register",
+    "href": "registration.html#how-to-register",
+    "title": "Registration",
+    "section": "How to register",
+    "text": "How to register\nYou must register in teams of approximately 3 to 5 people. The organizers strongly recommend that you form a team with your colleagues and book a room where you can all work together in-person for the duration of the funathon. This collaborative, in-person aspect is one of the most important features of the funathon (and it’s much more fun to work directly with colleagues).\nThe registration form is (here)[https://grist.numerique.gouv.fr/o/docs/forms/kVB8TszNTEbuuPoquY8ze8/55]."
+  },
+  {
     "objectID": "replay.html",
     "href": "replay.html",
     "title": "Replay du 18/06",
