@@ -5,8 +5,8 @@ website:
   title: "2026 AIML4OS Funathon"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      # - href: index.qmd
+      #   text: Home
       - about.qmd
       - registration.qmd
       # - href: https://aiml4os.github.io/funathon-general-website/
