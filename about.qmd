@@ -1,5 +1,6 @@
 ---
 title: "About the funathon"
+subtitle: "Let's discover ML and AI!"
 ---
 
 ![](img/funathon_2026.png){height="400" fig-align="center"}
