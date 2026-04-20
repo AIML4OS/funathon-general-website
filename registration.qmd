@@ -11,4 +11,6 @@ Registration to the AIML4OS funathon is compulsory. The registration process tak
 
 ## How to register
 
-Participants may register individually, but we stronly encourage participants to register in teams of approximately 3 to 5 people. The organizers strongly recommend that you form a team with your colleagues and __book a room where you can all work together in-person__ for the duration of the funathon. This collaborative, in-person aspect is one of the most important features of the funathon (and it's much more fun to work directly with colleagues). The registration form is [[here](https://grist.numerique.gouv.fr/o/docs/forms/kVB8TszNTEbuuPoquY8ze8/55)]{style="font-size: 2em; color: blue;"}.
+We stronly encourage participants to register in teams of approximately 3 to 5 people (but participants may register individually if they really want to). We also recommend that you form a team with your colleagues and __book a room where you can all work together in-person__ for the duration of the funathon.
+
+The registration form is [[here](https://grist.numerique.gouv.fr/o/docs/forms/kVB8TszNTEbuuPoquY8ze8/55)]{style="font-size: 2em; color: blue;"}.
