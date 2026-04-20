@@ -2,7 +2,7 @@
 title: "About the funathon"
 ---
 
-![](img/best_image_funathon.png){height="400" fig-align="center"}
+![](img/funathon_2026.png){height="400" fig-align="center"}
 
 This website accompanies the non-competitive hackathon (funathon) organized by Work Package 6 within the AIML4OS project.
 

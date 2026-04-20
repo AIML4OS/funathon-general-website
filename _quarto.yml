@@ -8,9 +8,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: https://aiml4os.github.io/funathon-general-website/
-        text: Introductory slides
-      - subjects.qmd
+      - registration.qmd
+      # - href: https://aiml4os.github.io/funathon-general-website/
+      #   text: Introductory slides
+      # - subjects.qmd
       # - replay.qmd
       # - restitutions.qmd
 
