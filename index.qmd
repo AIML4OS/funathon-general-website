@@ -11,7 +11,7 @@ listing:
     template: cards.ejs
 ---
 
-<!-- ![](img/best_image_funathon.png){height="400" fig-align="center"} -->
+<!-- ![](img/funathon_2026.png){height="400" fig-align="center"} -->
 
 The 2026 funathon will take place on __May 27th and 28th__. If you want to register, see [here](/about.qmd).
 
