@@ -23,4 +23,4 @@ The 2026 funathon will take place on __May 27th and 28th__. If you want to learn
 <br> -->
 
 
-All resources developed for the funathon are available on the [`Github AIML4OS`](https://github.com/orgs/AIML4OS/teams/wp6-funathon/repositories) webpage.
+All resources developed for the funathon are available on the [`Github AIML4OS`](https://github.com/AIML4OS?q=funathon&type=all&language=&sort=) webpage.
