@@ -7,7 +7,7 @@ title: "Registration"
 Registration to the AIML4OS funathon is compulsory. The registration process takes place in two steps:
 
 - First, participants register following the registration link;
-- Second, organizers will send an email to participants confirming your registration (around May 10th).
+- Second, organizers will send an email to participants confirming your registration (around May 15th).
 
 ## How to register
 

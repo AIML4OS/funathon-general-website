@@ -25,7 +25,7 @@ Funathon projects are end-to-end AI and ML projects that demonstrate how to carr
 
 ## Schedule
 
-The 2026 funathon will take place over two days, on __May 27th and 28th__, from 9:30am to 5:30pm (UTC+1/CET). The funathon will consist in three steps:
+The 2026 funathon will take place over two days, on __May 27th and 28th__, from 9:30am to 5:30pm (UTC+2/CEST). The funathon will consist in three steps:
 
 - it will start with a short welcoming session (roughly 30 minutes). In this session, organizers will explain and present the projects.
 - Then all teams will work on one of the projects for two days. 
